@@ -1,3 +1,5 @@
+<img width="1280" alt="posse-plugins-banner" src="https://github.com/Posse-Plugins/.github/assets/85794873/063c19a7-dce1-4b58-b950-dc03613888b4">
+
 # Welcome to Posse Plugins!
 
 ## About Us
