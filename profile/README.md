@@ -1,20 +1,15 @@
-![Untitled25_20240924074205](https://github.com/user-attachments/assets/2e9f4293-8200-43a4-9c58-6d55f198bc94)
+![Arctyll-full-no-bg](https://github.com/user-attachments/assets/6ec4eab4-45f8-400f-bd35-1775f29ab7d8)
+
+# Arctyll
+
+Welcome to Arctyll! We're a team of passionate developers creating a variety of projects, including:
+
+1. **Minecraft Mods**: Custom features to enhance gameplay.
+
+2. **Discord Bots**: Tools to automate and improve server functionality.
 
 
-# Welcome to Posse Plugins!
-
-## About Us
-
-Welcome to the Posse Plugins GitHub organization! We're a team of passionate developers dedicated to creating wide range of projects, including Minecraft plugins, websites, web designs, and Discord bots.
-
-## Our Projects
-
-Here are some of the main areas we focus on:
-
-* **Minecraft plugins**: Custom plugins to enhance your Minecraft experience.
-* **Web Development**: Building robust and responsive websites.
-* **Web Design**: Crafting visually appealing and and user-friendly web interfaces.
-* **Discord Bots**: Developing Discord bots to automate and enhance your Discord server.
+Join us as we innovate and build together!
 
 ## Contributing to our projects
 
@@ -67,8 +62,8 @@ We appreciate your contributions! Here's how you can help:
 
 ## Communication
 
-* **Discord**: Join our [Discord server](https://discord.gg/invite/coders-planet) for real-time communication with the team.
-* **Email**: Reach out to us at [posseplugins@gmail.com](posseplugins@gmail.com) for any inquires.
+* **Discord**: Join our Discord server (We don't have one) for real-time communication with the team.
+* **Email**: Reach out to us at [arctyllofficial@gmail.com](arctyllofficial@gmail.com) for any inquires.
 
 ## Code of Conduct
 
