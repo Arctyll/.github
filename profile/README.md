@@ -6,7 +6,7 @@ Welcome to Arctyll! We're a team of passionate developers creating a variety of 
 
 1. **Minecraft Mods**: Custom features to enhance gameplay.
 
-2. **Discord Bots**: Tools to automate and improve server functionality.
+2. **Minecraft texture packs**: Texture packs to improve your game's colors and textures.
 
 
 Join us as we innovate and build together!
@@ -17,7 +17,7 @@ To contribute to our projects, follow these steps:
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/Posse-Plugins/<repository-name>.git
+git clone https://github.com/Arctyll/<repository-name>.git
 ```
 
 2. **Navigate to the project directory**:
