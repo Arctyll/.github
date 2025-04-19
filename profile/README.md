@@ -1,4 +1,5 @@
-![Arctyll-full-no-bg](https://github.com/user-attachments/assets/6ec4eab4-45f8-400f-bd35-1775f29ab7d8)
+![Untitled36_20250419144642](https://github.com/user-attachments/assets/895f0f3c-2d10-4bc7-8a05-8005132ef8d4)
+
 
 # Arctyll
 
