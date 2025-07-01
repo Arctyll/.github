@@ -63,7 +63,6 @@ We appreciate your contributions! Here's how you can help:
 
 ## Communication
 
-* **Discord**: Join our Discord server (We don't have one) for real-time communication with the team.
 * **Email**: Reach out to us at [arctyllofficial@gmail.com](arctyllofficial@gmail.com) for any inquires.
 
 ## Code of Conduct
