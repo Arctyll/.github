@@ -63,11 +63,11 @@ We appreciate your contributions! Here's how you can help:
 
 ## Communication
 
-* **Email**: Reach out to us at [arctyllofficial@gmail.com](arctyllofficial@gmail.com) for any inquires.
+* **Email**: Reach out to us at [team@arctyll.com](team@arctyll.com) for any inquires.
 
 ## Code of Conduct
 
-Please note that we have a [Code of Conduct](https://github.com/Posse-Plugins/.github/blob/master/CODE_OF_CONDUCT.md) in place to ensure a welcoming and inclusive environment for everyone. By participating in this organization, you agree to abide by its terms.
+Please note that we have a [Code of Conduct](https://github.com/Arctyll/.github/blob/master/CODE_OF_CONDUCT.md) in place to ensure a welcoming and inclusive environment for everyone. By participating in this organization, you agree to abide by its terms.
 
 ## License
 
