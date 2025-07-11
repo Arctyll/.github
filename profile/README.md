@@ -1,4 +1,5 @@
-![Untitled36_20250419144642](https://github.com/user-attachments/assets/895f0f3c-2d10-4bc7-8a05-8005132ef8d4)
+<img width="2000" height="2000" alt="arctyll" src="https://github.com/user-attachments/assets/ec99e660-470d-4b42-b893-b032526d7c92" />
+
 
 
 # Arctyll
