@@ -1,6 +1,4 @@
-<img width="2000" height="2000" alt="arctyll" src="https://github.com/user-attachments/assets/ec99e660-470d-4b42-b893-b032526d7c92" />
-
-
+<img width="823" height="823" alt="logo" src="https://github.com/user-attachments/assets/ed098df9-4c1f-48b6-b881-a3e32aee038e" />
 
 # Arctyll
 
